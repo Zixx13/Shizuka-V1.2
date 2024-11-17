@@ -8,13 +8,13 @@ cd $HOME
 ```
 **STEP 2**
 ```
-pkg install bash
+pkg update -y && pkg upgrade -y && pkg install bash && pkg install git -y && git clone https://github.com/Tanmyname/Shizuka-V1.2.git
 ```
 **STEP 3**
 ```
-chmod 755 run.sh && ./run.sh
+cd Shizuka-V1.2
 ```
 **STEP 4**
 ```
-npm start
+bash run.sh
 ```
