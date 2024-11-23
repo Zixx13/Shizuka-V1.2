@@ -19,12 +19,12 @@ global.ig = '--'
 global.yt = 'Tan'
 global.ttowner = '@codenametan'
 global.ownername = '@Tan'
-global.owner = ['6282339835060'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
-global.ownernomer = '6282339835060'
+global.owner = ['+6272727722'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
+global.ownernomer = '62838383383'
 global.socialm = 'GitHub: Tanmyname'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
-global.nodana = '6282339835060' // KOSONG KAN JIKA TIDAK ADA
+global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
 global.nogopay = '6282339835060 ' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
@@ -36,7 +36,7 @@ global.botname = "Tv2"
 global.ownernumber = '6282339835060'
 global.botnumber = '6285198468895'
 global.ownername = '@Tan'
-global.ownerNumber = ["6282339835060@s.whatsapp.net"]
+global.ownerNumber = ["628182628272@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
