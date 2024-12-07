@@ -34,7 +34,7 @@ async function startServer() {
       const data = {
         status: 'true',
         message: 'Bot Successfully Activated!',
-        author: 'FERNAZER CODE'
+        author: '@Tan'
       };
       const result = {
         response: data
@@ -78,7 +78,7 @@ function displayRunningText() {
 function start(file) {
   if (isRunning) return;
   isRunning = true;
-  console.clear();
+  //console.clear();
   const args = [path.join(__dirname, file), ...process.argv.slice(2)];
   const p = spawn(process.argv[0], args, {
     stdio: ["inherit", "inherit", "inherit", "ipc"],
