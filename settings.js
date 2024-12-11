@@ -16,38 +16,38 @@ global.btz = 'masukkan apikey mu di sini'
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
 global.ig = '--'
-global.yt = 'Tan'
-global.ttowner = '@codenametan'
-global.ownername = '@Tan'
+global.yt = 'Zix'
+global.ttowner = '@Zixxy12'
+global.ownername = '@Zix'
 global.owner = ['+6272727722'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
-global.ownernomer = '62838383383'
-global.socialm = 'GitHub: Tanmyname'
+global.ownernomer = '6282112526610'
+global.socialm = 'GitHub: Zixxy13'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
-global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '6282339835060 ' // KOSONG KAN JIKA TIDAK ADA 
+global.nodana = '6282112526610' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = '6282112526610 ' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
-global.andana = 'Tan' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = 'Tan' // KOSONG KAN JIKA TIDAK ADA
+global.andana = 'Zix' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = 'Zix' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "Tv2"
-global.ownernumber = '6282339835060'
-global.botnumber = '6285198468895'
-global.ownername = '@Tan'
-global.ownerNumber = ["628182628272@s.whatsapp.net"]
+global.botname = "Zix-Bot"
+global.ownernumber = '6282112526610'
+global.botnumber = '6283830808828'
+global.ownername = '@Zix'
+global.ownerNumber = ["6282112526610@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
-global.wagc = "https://chat.whatsapp.com/DuolGpi5CIWDR8dYO6E1pC"
-global.saluran = "https://whatsapp.com/channel/0029VaTck0W6GcGMwiq4tQ3k"
+global.wagc = "https://chat.whatsapp.com/JBaQmWUATa03AVRh8gnYZ9"
+global.saluran = "https://whatsapp.com/channel/0029VaulOlr9MF91MwKtOg0O"
 global.themeemoji = '🪀'
-global.wm = "Tv2 | 6285198468895"
+global.wm = "Zix-Bot | 6282112526610"
 global.botscript = 'Ngk ada wle😂' //script link
 global.packname = "Sticker By"
-global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6285198468895"
-global.creator = "6285198468895@s.whatsapp.net"
+global.author = "\n\n\n\n\nCreate by Zix-Bot\nNo hape/wa : 6282112526610"
+global.creator = "6282112526610@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
 global.domain = '-' // Isi Domain Lu jangan kasih tanda / di akhir link
 global.apikey = '-' // Isi Apikey Plta Lu
@@ -190,7 +190,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-wait: 'Shizuka-Md | JANGAN SPAM',
+wait: 'Zixx-Bot | JANGAN SPAM',
    success: "Sukses",
    on: "Sudah Aktif", 
    off: "Sudah Off",
@@ -226,3 +226,4 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
+	
